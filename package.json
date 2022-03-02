@@ -1,0 +1,23 @@
+{
+  "name": "shea-feedme-a-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJShea86/shea-feedme-a-readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJShea86/shea-feedme-a-readme/issues"
+  },
+  "homepage": "https://github.com/AJShea86/shea-feedme-a-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
