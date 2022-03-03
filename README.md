@@ -1,50 +1,38 @@
-# undefined 
-
-
- ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/undefined/undefined?style=flat&logo=appveyor)
- 
- ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/undefined/undefined?style=flat&logo=appveyor)
-
+# Project Feedme a Readme 
 
 
 ## Description
 
 
-undefined
+This is a description without any details
 
 
 ## Installation
 
 
-undefined
+Here are some instructions to do nothing
 
 
 ## Usage
 
 
-undefined
+use this to help create a readme
 
 
 ## Contributions
 
 
-undefined
+give me monetary contributions please
 
 
 ## Tests
 
 
-undefined
+Any testing stuff goes here
 
 
-## License
+##### Github: AJShea86@github.com
 
 
-MIT
-
-
-##### Github: undefined
-
-
-##### Email: undefined
+##### Email: andrewsheamls@gmail.com
 

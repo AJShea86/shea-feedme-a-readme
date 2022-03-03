@@ -4,22 +4,20 @@ function renderTitleSection(data) {
   return `# ${data.title}`
 }
 
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {
-  if(license === "MIT"){
-    "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
-  }
-}
-renderLicenseBadge();
-
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
+// function renderLicenseBadge(license) {
+//   if(license === "MIT"){
+//     console.log(`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`)
+//   } 
+//   if(license === "Mozilla"){
+//     `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`
+//   }
+//   if(license === "Apache"){
+//     `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
+//   }
+//   if(license === "GNU GPL v3"){
+//     `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
+//   }
+// }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -27,12 +25,6 @@ function generateMarkdown(data) {
   // starting to render out the title, outputs `# ${data.title}`
 
 `${renderTitleSection(data)} 
-
-
- ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.email}/${data.github}?style=flat&logo=appveyor)
- 
- ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.email}/${data.github}?style=flat&logo=appveyor)
-
 
 
 ## Description
@@ -65,12 +57,6 @@ ${data.guidelines}
 ${data.instructions}
 
 
-## License
-
-
-${data.license}
-
-
 ##### Github: ${data.github}
 
 
@@ -80,6 +66,7 @@ ${data.license}
 
   renderTitleSection(data)
   return draftMarkdown;
+  // renderLicenseBadge();
 
 }
 
