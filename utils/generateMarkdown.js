@@ -41,7 +41,22 @@ function generateMarkdown(data) {
 ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.email}/${data.github}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.email}/${data.github}?style=flat&logo=appveyor)
 
 Check out the badges hosted by [shields.io](https://shields.io/).
-## ${data.description}
+## Description: ${data.description}
+
+## Installation:${data.installation}
+
+## Usage: ${data.information}
+
+## Contributions: ${data.guidelines}
+
+## Tests: ${data.instructions}
+
+## License: ${data.license}
+
+## Github Username: ${data.github}
+
+## Email: ${data.email}
+
 `
 
   renderTitleSection(data)
