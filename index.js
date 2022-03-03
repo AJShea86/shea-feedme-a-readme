@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const fs = require('fs');
 const generateMarkdown = require("./utils/generateMarkdown");
 const testData = {
-  title: 'Project Chaos',
+  title: 'Project Shea',
   description: 'This is a description',
   installation: 'Here are some instructions',
   information: 'this is usage info',
