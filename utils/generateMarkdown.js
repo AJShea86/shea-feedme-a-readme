@@ -28,52 +28,46 @@ function generateMarkdown(data) {
 
 
 
-## Description: 
+## Description
 
 
 ${data.description}
 
 
-## Installation: 
+## Installation
 
 
 ${data.installation}
 
 
-## Usage: 
+## Usage
 
 
 ${data.information}
 
 
-## Contributions: 
+## Contributions
 
 
 ${data.guidelines}
 
 
-## Tests: 
+## Tests
 
 
 ${data.instructions}
 
 
-## License: 
+## License
 
 
 ${data.license}
 
 
-##### Github: 
+##### Github: ${data.github}
 
 
-${data.github}
-
-
-##### Email: 
-
-
-${data.email}
+##### Email: ${data.email}
 
 `
 
