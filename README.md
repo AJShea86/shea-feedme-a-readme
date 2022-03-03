@@ -1,48 +1,50 @@
-# Project Feedme a Readme 
+# undefined 
 
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/andrewsheamls@gmail.com/AJShea86@github.com?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/andrewsheamls@gmail.com/AJShea86@github.com?style=flat&logo=appveyor)
+ ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/undefined/undefined?style=flat&logo=appveyor)
+ 
+ ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/undefined/undefined?style=flat&logo=appveyor)
 
 
 
 ## Description
 
 
-This is a description without any details
+undefined
 
 
 ## Installation
 
 
-Here are some instructions to do nothing
+undefined
 
 
 ## Usage
 
 
-use this to help create a readme
+undefined
 
 
 ## Contributions
 
 
-give me monetary contributions please
+undefined
 
 
 ## Tests
 
 
-Any testing stuff goes here
+undefined
 
 
 ## License
 
 
-License 1
+MIT
 
 
-##### Github: AJShea86@github.com
+##### Github: undefined
 
 
-##### Email: andrewsheamls@gmail.com
+##### Email: undefined
 
