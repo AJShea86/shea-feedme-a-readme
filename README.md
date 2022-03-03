@@ -1,30 +1,54 @@
-# Project FeedMe a ReadMe 
+# Project Feedme a Readme 
 
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/andrewsheamls@gmail.com/AJShea86?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/andrewsheamls@gmail.com/AJShea86?style=flat&logo=appveyor)
-
-Check out the badges hosted by [shields.io](https://shields.io/).
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/andrewsheamls@gmail.com/AJShea86@github.com?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/andrewsheamls@gmail.com/AJShea86@github.com?style=flat&logo=appveyor)
 
 
-## Description: This is a README file generator. Its meant to assist you with creating README files for all you projects
+
+## Description: 
 
 
-## Installation: Installation is easy. You just click download
+This is a description without any details
 
 
-## Usage: Use this app anytime you need to create a README for a new project
+## Installation: 
 
 
-## Contributions: Give me monetary contributions only
+Here are some instructions to do nothing
 
 
-## Tests: There aren't any instructions to put in this spot
+## Usage: 
 
 
-## License: License 2
+use this to help create a readme
 
 
-##### Github: AJShea86
+## Contributions: 
 
-##### Email: andrewsheamls@gmail.com
+
+give me monetary contributions please
+
+
+## Tests: 
+
+
+Any testing stuff goes here
+
+
+## License: 
+
+
+License 1
+
+
+##### Github: 
+
+
+AJShea86@github.com
+
+
+##### Email: 
+
+
+andrewsheamls@gmail.com
 

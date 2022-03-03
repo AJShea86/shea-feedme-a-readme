@@ -1,17 +1,3 @@
-/*
-{
-  title: 'Project Chaos',
-  description: 'This is a description',
-  installation: 'Here are some instructions',
-  information: 'this is usage info',
-  guidelines: 'give me money',
-  instructions: 'test here',
-  license: [ 'License 1' ],
-  github: 'ajshea86',
-  email: 'afafd@dfas.com'
-}
-*/
-
 
 function renderTitleSection(data) {
   console.log(data.title)
@@ -40,30 +26,54 @@ function generateMarkdown(data) {
 
 ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.email}/${data.github}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${data.email}/${data.github}?style=flat&logo=appveyor)
 
-Check out the badges hosted by [shields.io](https://shields.io/).
 
 
-## Description: ${data.description}
+## Description: 
 
 
-## Installation: ${data.installation}
+${data.description}
 
 
-## Usage: ${data.information}
+## Installation: 
 
 
-## Contributions: ${data.guidelines}
+${data.installation}
 
 
-## Tests: ${data.instructions}
+## Usage: 
 
 
-## License: ${data.license}
+${data.information}
 
 
-##### Github: ${data.github}
+## Contributions: 
 
-##### Email: ${data.email}
+
+${data.guidelines}
+
+
+## Tests: 
+
+
+${data.instructions}
+
+
+## License: 
+
+
+${data.license}
+
+
+##### Github: 
+
+
+${data.github}
+
+
+##### Email: 
+
+
+${data.email}
 
 `
 
