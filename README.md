@@ -31,6 +31,12 @@ give me monetary contributions please
 Any testing stuff goes here
 
 
+## License
+
+
+MIT
+
+
 ##### Github: AJShea86@github.com
 
 

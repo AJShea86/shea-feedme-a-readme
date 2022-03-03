@@ -57,6 +57,12 @@ ${data.guidelines}
 ${data.instructions}
 
 
+## License
+
+
+${data.license}
+
+
 ##### Github: ${data.github}
 
 
