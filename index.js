@@ -9,7 +9,7 @@ const testData = {
   information: 'use this to help create a readme',
   guidelines: 'give me monetary contributions please',
   instructions: 'Any testing stuff goes here',
-  license: ["MIT"],
+  license: ["MIT", "Mozilla", "Apache", "GNU GPL v3"],
   github: 'AJShea86@github.com',
   email: 'andrewsheamls@gmail.com'
 }
