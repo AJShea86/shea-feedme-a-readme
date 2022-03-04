@@ -36,11 +36,18 @@ function renderToC(data){
   if (data.installation !== '') { buildToC += `
   * [Installation](#installation)` };
 
-  // if (data.contributing !== '') { buildToC += `
-  // * [Contributing](#contributing)` };
+  if (data.contributing !== '') { buildToC += `
+  * [Usage](#information)` };
 
-  // if (data.tests !== '') { buildToC += `
-  // * [Tests](#tests)` };
+  if (data.guidelines !== '') { buildToC += `
+  * [Contributions](#guidelines)` };
+
+  if (data.instructions !== '') { buildToC += `
+  * [Tests](#instructions)` };
+
+  if (data.license !== '') { buildToC += `
+  * [License](#license)` };
+
 return buildToC
 }
 
