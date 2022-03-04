@@ -49,7 +49,7 @@ inquirer
     {
       type: "checkbox",
       message: "Choose a license for the application.",
-      choices: ["MIT", "Mozilla", "Apache", "GNU GPL v3"],
+      choices: [" MIT", " Mozilla", " Apache", " GNU GPL v3"],
       name: "license",                  
     },
     {
