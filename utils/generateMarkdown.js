@@ -37,13 +37,13 @@ function renderToC(data){
   * [Installation](#installation)` };
 
   if (data.contributing !== '') { buildToC += `
-  * [Usage](#information)` };
+  * [Usage](#usage)` };
 
   if (data.guidelines !== '') { buildToC += `
-  * [Contributions](#guidelines)` };
+  * [Contributions](#contributions)` };
 
   if (data.instructions !== '') { buildToC += `
-  * [Tests](#instructions)` };
+  * [Tests](#tests)` };
 
   if (data.license !== '') { buildToC += `
   * [License](#license)` };

@@ -3,9 +3,9 @@
 ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#information)
-  * [Contributions](#guidelines)
-  * [Tests](#instructions)
+  * [Usage](#usage)
+  * [Contributions](#contributions)
+  * [Tests](#tests)
   * [License](#license)
 
 
