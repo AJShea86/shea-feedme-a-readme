@@ -1,5 +1,5 @@
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-# Project Feedme a Readme 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)  
+# FEEDME a README 
 ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -11,37 +11,37 @@
 ## Description
 
 
-This is a description without any details
+This application is designed to help create and organize a detailed README file for any of your new projects.
 
 
 ## Installation
 
 
-Here are some instructions to do nothing
+To use the application, run node index.js in the command line and answer all the prompts.
 
 
 ## Usage
 
 
-use this to help create a readme
+Use this application any time you need to create a new README file.
 
 
 ## Contributions
 
 
-give me monetary contributions please
+I am the only one contributing to this application, but if you'd like to contribute, refer to the Questions section.
 
 
 ## Tests
 
 
-Any testing stuff goes here
+There are no testing instructions at this time.
 
 
 ## License
 
 
-MIT,Mozilla,Apache,GNU GPL v3
+MIT,Mozilla
 
 
 ## Questions?: 
