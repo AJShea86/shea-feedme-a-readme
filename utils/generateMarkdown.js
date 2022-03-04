@@ -98,10 +98,15 @@ ${data.instructions}
 ${data.license}
 
 
-##### Github: ${data.github}
+## Questions?: 
 
 
-##### Email: ${data.email}
+Email me at: ${data.email}
+
+Github: "https://github.com/${data.github}"
+
+
+
 
 `
 

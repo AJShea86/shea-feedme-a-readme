@@ -1,5 +1,5 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-# adfasdfasdfasdf 
+# Project Feedme a Readme 
 ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -11,31 +11,31 @@
 ## Description
 
 
-adfasdfasdfasdfadfadfasd
+This is a description without any details
 
 
 ## Installation
 
 
-adfasdf
+Here are some instructions to do nothing
 
 
 ## Usage
 
 
-adsfadfasfasdfasfasdf
+use this to help create a readme
 
 
 ## Contributions
 
 
-adfasdfasdfasdf
+give me monetary contributions please
 
 
 ## Tests
 
 
-erqwerw
+Any testing stuff goes here
 
 
 ## License
@@ -44,8 +44,13 @@ erqwerw
 MIT,Mozilla,Apache,GNU GPL v3
 
 
-##### Github: adf
+## Questions?: 
 
 
-##### Email: sadf
+Email me at: andrewsheamls@gmail.com
+
+Github: "https://github.com/AJShea86"
+
+
+
 
